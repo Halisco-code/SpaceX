@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.olog{
+    background-image: url(images/SpaceX/Flight_4_Website_Desktop_3_ef4f400e2d.jpg);
+        background-size: 1500px;
+        background-repeat: no-repeat;
+        height: 100vh;
+}
+.man{
+    margin-left: 0px;
+    display: flex;
+    gap: 50px;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+}
+.man:hover{
+    background-color: transparent;
+}
+.logo{
+    width: 210px;
+    margin: 0px 30px;
+}
+.nava{
+    display: flex;
+    gap: 30px;
+    color: white;
+}
+.link{
+    display: flex;
+    gap: 10px;
+    color: white;
+    margin-top: 35px;
+}   
+.text{
+    margin-top: 35px;
+    color: white;
+    font-weight: bold;
+}
+.tlog{
+    background-image: url(images/SpaceX/Homepage_Starlink_SLC_40_Desktop_5b1e6b5dd0.jpg);
+    width: 100%;
+    height: 100vh;
+    
+}
+.hey{
+    margin: 300px 40px;
+}
+p{
+    color: white;
+    font-size: 30px;
+    font-weight: 600px;
+    font-family:sans-serif;
+}
+h2{
+    color: white;
+    font-size: 50px;
+}
+.button{
+    color: white;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: 16px;
+    font-size: 19px;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.heyt{
+    padding-top: 400px;
+    padding-left: 50px;
+}
+.flog{
+    background-image: url(images/SpaceX/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: contain;
+}
+.blog{
+    background-image: url(images/SpaceX/make_life_multiplanetary_desktop_3fa7cff73c.jpg);
+    width: 100%;
+    height: 97vh;
+    background-size: contain;
+}
+.dnav{
+    display: flex;
+    background-color: black;
+    gap: 10px;
+    height: 10vh
+}
+.wav{
+    color: white;
+    font-size: 13px;
+    margin-left: 500px;
+    top: 200px;
+    padding: 20px;
+}
